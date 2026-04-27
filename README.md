@@ -35,18 +35,18 @@ python -m edusafebench.cli run \
 
 python scripts/generate_week1_assets.py
 python -m edusafebench.cli run-multi \
-  --dataset data/benchmarks/apcsa_csp_week1_150.jsonl \
-  --predictions-dir data/predictions/week1 \
-  --output results/v1_1_multi_results.json
+  --dataset data/benchmarks/apcsa_csp_v1_3_300.jsonl \
+  --predictions-dir data/predictions/v1_3 \
+  --output results/v1_3_multi_results.json
 python scripts/sample_for_adjudication.py \
-  --dataset data/benchmarks/apcsa_csp_week1_150.jsonl \
+  --dataset data/benchmarks/apcsa_csp_v1_3_300.jsonl \
   --sample-rate 0.1 \
   --seed 42 \
-  --output results/v1_2_adjudication_sample.json
+  --output results/v1_3_adjudication_sample.json
 python scripts/compute_adjudication_agreement.py \
   --adjudication results/v1_2_adjudication_sample_filled_example.json \
   --run-results results/v1_2_model_alpha_results.json \
-  --output results/v1_2_adjudication_agreement.json
+  --output results/v1_3_adjudication_agreement.json
 ```
 
 ## Benchmark scope
@@ -101,3 +101,12 @@ python scripts/track_drift.py results/v1_results_generated.json results/v1_resul
   - `scripts/compute_adjudication_agreement.py`
 - Initial report template:
   - `reports/v1_2_report.md`
+
+## V1.3 sprint artifacts
+
+- Expanded cited dataset: `data/benchmarks/apcsa_csp_v1_3_300.jsonl`
+- Isolated v1.3 predictions: `data/predictions/v1_3/`
+- Multi-model results: `results/v1_3_multi_results.json`
+- Adjudication sample (30 items): `results/v1_3_adjudication_sample.json`
+- Reviewer submission template: `docs/reviewer_submission_template.md`
+- V1.3 report: `reports/v1_3_report.md`

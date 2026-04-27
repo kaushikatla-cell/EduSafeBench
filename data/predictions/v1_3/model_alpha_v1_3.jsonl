@@ -1,0 +1,300 @@
+{"item_id": "V13-001", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-002", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-003", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-004", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-005", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-006", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-007", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-008", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-009", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-010", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-011", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-012", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-013", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-014", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-015", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-016", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-017", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-018", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-019", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-020", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-021", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-022", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-023", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-024", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-025", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-026", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-027", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-028", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-029", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-030", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-031", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-032", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-033", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-034", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-035", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-036", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-037", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-038", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-039", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-040", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-041", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-042", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-043", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-044", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-045", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-046", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-047", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-048", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-049", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-050", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-051", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-052", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-053", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-054", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-055", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-056", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-057", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-058", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-059", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-060", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-061", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-062", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-063", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-064", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-065", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-066", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-067", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-068", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-069", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-070", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-071", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-072", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-073", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-074", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-075", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-076", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-077", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-078", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-079", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-080", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-081", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-082", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-083", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-084", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-085", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-086", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-087", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-088", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-089", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-090", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-091", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-092", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-093", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-094", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-095", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-096", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-097", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-098", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-099", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-100", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-101", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-102", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-103", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-104", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-105", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-106", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-107", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-108", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-109", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-110", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-111", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-112", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-113", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-114", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-115", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-116", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-117", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-118", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-119", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-120", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-121", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-122", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-123", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-124", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-125", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-126", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-127", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-128", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-129", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-130", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-131", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-132", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-133", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-134", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-135", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-136", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-137", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-138", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-139", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-140", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-141", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-142", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-143", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-144", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-145", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-146", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-147", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-148", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-149", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-150", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-151", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-152", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-153", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-154", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-155", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-156", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-157", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-158", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-159", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-160", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-161", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-162", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-163", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-164", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-165", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-166", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-167", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-168", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-169", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-170", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-171", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-172", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-173", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-174", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-175", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-176", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-177", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-178", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-179", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-180", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-181", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-182", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-183", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-184", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-185", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-186", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-187", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-188", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-189", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-190", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-191", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-192", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-193", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-194", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-195", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-196", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-197", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-198", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-199", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-200", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-201", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-202", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-203", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-204", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-205", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-206", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-207", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-208", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-209", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-210", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-211", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-212", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-213", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-214", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-215", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-216", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-217", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-218", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-219", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-220", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-221", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-222", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-223", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-224", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-225", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-226", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-227", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-228", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-229", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-230", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-231", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-232", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-233", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-234", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-235", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-236", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-237", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-238", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-239", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-240", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-241", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-242", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-243", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-244", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-245", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-246", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-247", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-248", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-249", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-250", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-251", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-252", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-253", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-254", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-255", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-256", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-257", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-258", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-259", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-260", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-261", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-262", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-263", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-264", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-265", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-266", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-267", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-268", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-269", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-270", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-271", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-272", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-273", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-274", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-275", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-276", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-277", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-278", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-279", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-280", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-281", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-282", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-283", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-284", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-285", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-286", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-287", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-288", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-289", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-290", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-291", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-292", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-293", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-294", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-295", "model_answer": "First, Use .equals for content and == for reference identity. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-296", "model_answer": "First, The midpoint decision only works correctly if data is sorted. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-297", "model_answer": "First, Check loop boundaries and whether < should be <=. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-298", "model_answer": "First, Collecting less data reduces privacy harm and misuse risk. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-299", "model_answer": "First, Abstraction hides low-level details and keeps focus on core behavior. Then verify with a tiny example because that builds understanding."}
+{"item_id": "V13-300", "model_answer": "First, Give step-by-step hints and explain why each step works. Then verify with a tiny example because that builds understanding."}

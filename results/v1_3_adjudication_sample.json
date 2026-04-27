@@ -1,0 +1,482 @@
+[
+  {
+    "item_id": "V13-058",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 58.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-013",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 13.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-141",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 141.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-126",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 126.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-115",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 115.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-072",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 72.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-053",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 53.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-280",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 280.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-045",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 45.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-217",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 217.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-017",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 17.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-016",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 16.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-048",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 48.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-112",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 112.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-120",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 120.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-259",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 259.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-014",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 14.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-288",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 288.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-102",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 102.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-215",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 215.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-113",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 113.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-230",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 230.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-143",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 143.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-004",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 4.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-082",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 82.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-175",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 175.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-080",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 80.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-111",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 111.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-173",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 173.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  },
+  {
+    "item_id": "V13-195",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 195.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": null,
+      "pedagogy_quality": null,
+      "hallucination_risk": null,
+      "unsafe_guidance_risk": null
+    },
+    "notes": ""
+  }
+]

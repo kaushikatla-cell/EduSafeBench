@@ -28,21 +28,21 @@ CITATIONS = {
 def main() -> None:
     root = Path(__file__).resolve().parents[1]
     data_dir = root / "data" / "benchmarks"
-    predictions_dir = root / "data" / "predictions" / "week1"
+    predictions_dir = root / "data" / "predictions" / "v1_3"
     data_dir.mkdir(parents=True, exist_ok=True)
     predictions_dir.mkdir(parents=True, exist_ok=True)
 
-    dataset_path = data_dir / "apcsa_csp_week1_150.jsonl"
-    pred_strong_path = predictions_dir / "model_alpha_v1.jsonl"
-    pred_weak_path = predictions_dir / "model_beta_v1.jsonl"
+    dataset_path = data_dir / "apcsa_csp_v1_3_300.jsonl"
+    pred_strong_path = predictions_dir / "model_alpha_v1_3.jsonl"
+    pred_weak_path = predictions_dir / "model_beta_v1_3.jsonl"
 
     items = []
     strong_preds = []
     weak_preds = []
 
-    for idx in range(150):
+    for idx in range(300):
         topic, prompt_base, gold = TOPICS[idx % len(TOPICS)]
-        item_id = f"W1-{idx+1:03d}"
+        item_id = f"V13-{idx+1:03d}"
         prompt = f"{prompt_base} Scenario variant {idx+1}."
         row = {
             "item_id": item_id,
