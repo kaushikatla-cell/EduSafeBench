@@ -30,6 +30,12 @@ python -m edusafebench.cli run \
   --dataset data/benchmarks/apcsa_csp_v1.jsonl \
   --predictions data/benchmarks/sample_predictions_v1.jsonl \
   --output results/v1_results_generated.json
+
+python scripts/generate_week1_assets.py
+python -m edusafebench.cli run-multi \
+  --dataset data/benchmarks/apcsa_csp_week1_150.jsonl \
+  --predictions-dir data/predictions/week1 \
+  --output results/v1_1_multi_results.json
 ```
 
 ## Benchmark scope
@@ -66,3 +72,11 @@ Reliability dimensions:
 ```bash
 python scripts/track_drift.py results/v1_results_generated.json results/v1_results_generated.json
 ```
+
+## Week 1 sprint artifacts
+
+- Expanded dataset: `data/benchmarks/apcsa_csp_week1_150.jsonl`
+- Multi-model predictions: `data/predictions/week1/`
+- Multi-model result artifact: `results/v1_1_multi_results.json`
+- Week-one report: `reports/v1_1_report.md`
+- Outreach plan: `docs/outreach.md`
