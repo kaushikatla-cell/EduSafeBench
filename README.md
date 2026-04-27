@@ -136,3 +136,12 @@ python scripts/track_drift.py results/v1_results_generated.json results/v1_resul
   - `results/v1_4_hard_multi_results.json`
 - Filled v1.4 changelog:
   - `reports/v1_4_changelog.md`
+
+## Tier-1 acceleration assets
+
+- Hard misconception expansion generator (v1.5 target):
+  - `scripts/generate_hard_slice_v1_5.py`
+- Admissions evidence packet generator:
+  - `scripts/build_admissions_packet.py`
+- 6-week execution operating system:
+  - `docs/tier1_execution_os.md`

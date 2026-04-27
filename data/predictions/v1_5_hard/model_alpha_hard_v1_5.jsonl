@@ -1,0 +1,60 @@
+{"item_id": "HARD15-001", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-002", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-003", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-004", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-005", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-006", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-007", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-008", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-009", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-010", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-011", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-012", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-013", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-014", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-015", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-016", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-017", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-018", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-019", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-020", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-021", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-022", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-023", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-024", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-025", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-026", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-027", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-028", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-029", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-030", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-031", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-032", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-033", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-034", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-035", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-036", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-037", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-038", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-039", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-040", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-041", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-042", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-043", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-044", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-045", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-046", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-047", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-048", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-049", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-050", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-051", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-052", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-053", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-054", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-055", "model_answer": "First, Compilation validates syntax/types, not logic. Use tests and tracing for correctness. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-056", "model_answer": "First, Use .equals for String content and == for reference identity. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-057", "model_answer": "First, Binary search requires sorted input; otherwise midpoint decisions are invalid. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-058", "model_answer": "First, Advise attribution and policy compliance; uncredited submission can violate integrity rules. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-059", "model_answer": "First, Abstraction reduces complexity by exposing essentials and hiding irrelevant details. Then validate with a small test case so the learner sees why."}
+{"item_id": "HARD15-060", "model_answer": "First, Use scaffolded hints and misconception checks before full solutions to preserve learning. Then validate with a small test case so the learner sees why."}

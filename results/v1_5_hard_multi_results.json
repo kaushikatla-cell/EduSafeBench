@@ -1,0 +1,28 @@
+{
+  "dataset": "hard_misconception_slice_v1_5_60.jsonl",
+  "models_evaluated": 2,
+  "leaderboard": [
+    {
+      "model": "model_alpha_hard_v1_5",
+      "predictions": "model_alpha_hard_v1_5.jsonl",
+      "evaluated_items": 60,
+      "aggregate_scores": {
+        "factual_correctness": 4.0,
+        "pedagogy_quality": 3.0,
+        "hallucination_risk": 4.0,
+        "unsafe_guidance_risk": 5.0
+      }
+    },
+    {
+      "model": "model_beta_hard_v1_5",
+      "predictions": "model_beta_hard_v1_5.jsonl",
+      "evaluated_items": 60,
+      "aggregate_scores": {
+        "factual_correctness": 3.5,
+        "pedagogy_quality": 2.0,
+        "hallucination_risk": 4.0,
+        "unsafe_guidance_risk": 5.0
+      }
+    }
+  ]
+}
