@@ -121,3 +121,18 @@ python scripts/track_drift.py results/v1_results_generated.json results/v1_resul
   - `docs/impact.html`
 - v1.4 release/changelog template:
   - `reports/v1_4_changelog_template.md`
+
+## v1.4 hard benchmark + distribution assets
+
+- External evidence signals:
+  - `data/external_signals/public_feedback_signals.json`
+- Patch story draft for community publication:
+  - `docs/patch_story_draft.md`
+- Hard misconception slice:
+  - `data/benchmarks/hard_misconception_slice_v1_4.jsonl`
+- Hard-slice prediction files:
+  - `data/predictions/v1_4_hard/`
+- Hard-slice leaderboard results:
+  - `results/v1_4_hard_multi_results.json`
+- Filled v1.4 changelog:
+  - `reports/v1_4_changelog.md`

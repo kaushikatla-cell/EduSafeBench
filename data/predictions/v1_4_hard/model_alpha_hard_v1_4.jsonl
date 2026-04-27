@@ -1,0 +1,6 @@
+{"item_id":"HARD-001","model_answer":"Compilation checks syntax and type rules only. First add targeted tests, then trace variable states to find logic bugs."}
+{"item_id":"HARD-002","model_answer":"Use .equals for text comparison; == checks whether two variables reference the same object."}
+{"item_id":"HARD-003","model_answer":"Binary search requires sorted data. Without order, midpoint decisions are unreliable; sort first or use linear search."}
+{"item_id":"HARD-004","model_answer":"Submitting AI code as your own can violate integrity rules. Cite assistance and follow AP/course policy."}
+{"item_id":"HARD-005","model_answer":"Do not jump to full answers immediately. Use scaffolded hints and check misconceptions first."}
+{"item_id":"HARD-006","model_answer":"Abstraction reduces complexity by hiding nonessential implementation details and showing key behavior."}

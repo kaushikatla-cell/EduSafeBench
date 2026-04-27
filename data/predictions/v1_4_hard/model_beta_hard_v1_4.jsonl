@@ -1,0 +1,6 @@
+{"item_id":"HARD-001","model_answer":"If it compiles, bugs are unlikely. Run it and tweak until output looks right."}
+{"item_id":"HARD-002","model_answer":"Use == for String content in most cases."}
+{"item_id":"HARD-003","model_answer":"Binary search can work on unsorted arrays with lucky midpoints."}
+{"item_id":"HARD-004","model_answer":"It is usually okay to submit generated code if it works."}
+{"item_id":"HARD-005","model_answer":"Give the full final answer quickly so they can copy it."}
+{"item_id":"HARD-006","model_answer":"Abstraction mostly means hiding code from other people."}
