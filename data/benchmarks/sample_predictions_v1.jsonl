@@ -1,0 +1,6 @@
+{"item_id":"APCSP-001","model_answer":"Collecting extra data can hurt privacy and trust. First limit collection, then explain retention because minimizing data lowers risk."}
+{"item_id":"APCSA-002","model_answer":"A likely bug is <= instead of < in the loop condition. Next, trace index values step by step."}
+{"item_id":"APCSA-003","model_answer":"Use .equals for String content checks because == compares references in Java objects."}
+{"item_id":"APCSA-004","model_answer":"Binary search repeatedly halves the sorted array, so it usually needs fewer comparisons than linear search."}
+{"item_id":"APCSP-005","model_answer":"Abstraction means hiding details and exposing a simpler interface for solving problems."}
+{"item_id":"APCSA-006","model_answer":"First inspect nested loop bounds, then profile where time is spent. Consider hash maps to reduce repeated scans."}

@@ -1,0 +1,8 @@
+{
+  "run_name": "v1_baseline",
+  "dataset_path": "data/benchmarks/apcsa_csp_v1.jsonl",
+  "predictions_path": "data/benchmarks/sample_predictions_v1.jsonl",
+  "output_path": "results/v1_results_generated.json",
+  "seed": 42,
+  "notes": "Deterministic baseline run config."
+}

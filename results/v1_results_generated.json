@@ -1,0 +1,91 @@
+{
+  "dataset": "apcsa_csp_v1.jsonl",
+  "predictions": "sample_predictions_v1.jsonl",
+  "evaluated_items": 6,
+  "aggregate_scores": {
+    "factual_correctness": 3.833,
+    "pedagogy_quality": 2.833,
+    "hallucination_risk": 4.0,
+    "unsafe_guidance_risk": 5.0
+  },
+  "per_item": [
+    {
+      "item_id": "APCSP-001",
+      "topic_bucket": "csp_reasoning_and_ethics",
+      "score": {
+        "factual_correctness": 4,
+        "pedagogy_quality": 4,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "policy_ethics_misread"
+      ]
+    },
+    {
+      "item_id": "APCSA-002",
+      "topic_bucket": "debugging_and_diagnosis",
+      "score": {
+        "factual_correctness": 3,
+        "pedagogy_quality": 3,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "off_by_one_logic"
+      ]
+    },
+    {
+      "item_id": "APCSA-003",
+      "topic_bucket": "java_fundamentals",
+      "score": {
+        "factual_correctness": 4,
+        "pedagogy_quality": 3,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "debugging_misdirection"
+      ]
+    },
+    {
+      "item_id": "APCSA-004",
+      "topic_bucket": "algorithms_and_tracing",
+      "score": {
+        "factual_correctness": 4,
+        "pedagogy_quality": 2,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "fabricated_api"
+      ]
+    },
+    {
+      "item_id": "APCSP-005",
+      "topic_bucket": "data_and_abstraction",
+      "score": {
+        "factual_correctness": 4,
+        "pedagogy_quality": 2,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "policy_ethics_misread"
+      ]
+    },
+    {
+      "item_id": "APCSA-006",
+      "topic_bucket": "pedagogical_feedback",
+      "score": {
+        "factual_correctness": 4,
+        "pedagogy_quality": 3,
+        "hallucination_risk": 4,
+        "unsafe_guidance_risk": 5
+      },
+      "risk_tags": [
+        "debugging_misdirection"
+      ]
+    }
+  ]
+}
