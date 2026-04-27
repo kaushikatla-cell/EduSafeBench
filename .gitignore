@@ -2,3 +2,8 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+
+# GitHub Pages publish copies (generated locally by scripts/sync_site_assets.py)
+docs/reports/
+docs/results/
+docs/public_docs/

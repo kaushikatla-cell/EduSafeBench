@@ -6,6 +6,8 @@ Website (GitHub Pages): `https://kaushikatla-cell.github.io/EduSafeBench/`
 
 If the site shows a GitHub Pages 404, ensure **Settings → Pages → Build and deployment → Source: GitHub Actions** is enabled for this repository, then re-run the `pages` workflow.
 
+GitHub Pages only serves files under `docs/`. The `pages` workflow runs `scripts/sync_site_assets.py` to copy `reports/*.md`, `results/*.json`, and selected `docs/*.md` into `docs/` before publishing.
+
 ## What this project ships
 
 - A structured benchmark dataset with rubric-guided grading fields.
