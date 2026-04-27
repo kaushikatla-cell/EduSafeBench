@@ -4,6 +4,8 @@ EduSafeBench is a public, reproducible reliability benchmark for K-12 CS learnin
 
 Website (GitHub Pages): `https://kaushikatla-cell.github.io/EduSafeBench/`
 
+If the site shows a GitHub Pages 404, ensure **Settings → Pages → Build and deployment → Source: GitHub Actions** is enabled for this repository, then re-run the `pages` workflow.
+
 ## What this project ships
 
 - A structured benchmark dataset with rubric-guided grading fields.
