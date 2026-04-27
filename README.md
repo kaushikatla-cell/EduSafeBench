@@ -110,3 +110,14 @@ python scripts/track_drift.py results/v1_results_generated.json results/v1_resul
 - Adjudication sample (30 items): `results/v1_3_adjudication_sample.json`
 - Reviewer submission template: `docs/reviewer_submission_template.md`
 - V1.3 report: `reports/v1_3_report.md`
+
+## Impact and v1.4 workflow
+
+- Reviewer submission JSON directory:
+  - `data/reviewer_submissions/`
+- Ingest reviewer submissions into impact metrics:
+  - `python scripts/ingest_reviewer_submissions.py --submissions-dir data/reviewer_submissions --output results/impact_summary.json`
+- Public impact dashboard:
+  - `docs/impact.html`
+- v1.4 release/changelog template:
+  - `reports/v1_4_changelog_template.md`

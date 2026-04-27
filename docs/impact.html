@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>EduSafeBench Impact</title>
+    <style>
+      body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0b1020; color: #e7ecff; }
+      .container { max-width: 960px; margin: 0 auto; padding: 2rem 1rem 3rem; }
+      .card { background: #141b34; border: 1px solid #2a376a; border-radius: 12px; padding: 1rem; margin-bottom: 0.8rem; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 0.8rem; }
+      .metric { font-size: 1.4rem; font-weight: 700; }
+      a { color: #6ea8fe; }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>EduSafeBench Impact Dashboard</h1>
+      <p>Track external validation and real-world usage signals for college-facing credibility.</p>
+
+      <div class="grid">
+        <section class="card"><div class="metric">1</div><div>Reviewer submissions logged</div></section>
+        <section class="card"><div class="metric">1</div><div>Decisions influenced</div></section>
+        <section class="card"><div class="metric">4.25</div><div>Average review rating</div></section>
+        <section class="card"><div class="metric">300</div><div>Cited benchmark items in v1.3</div></section>
+      </div>
+
+      <section class="card">
+        <h2>How to update these metrics</h2>
+        <ol>
+          <li>Add reviewer JSON files in <code>data/reviewer_submissions/</code>.</li>
+          <li>Run <code>python scripts/ingest_reviewer_submissions.py --submissions-dir data/reviewer_submissions --output results/impact_summary.json</code>.</li>
+          <li>Update this page using values from <code>results/impact_summary.json</code>.</li>
+        </ol>
+      </section>
+
+      <section class="card">
+        <h2>Key links</h2>
+        <ul>
+          <li><a href="./index.html">Main site</a></li>
+          <li><a href="../results/impact_summary.json">Impact summary JSON</a></li>
+          <li><a href="../reports/v1_3_report.md">v1.3 report</a></li>
+          <li><a href="../docs/reviewer_submission_template.md">Reviewer submission template</a></li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "reviewer_profile": {
+    "name": "Example Teacher",
+    "role": "Teacher",
+    "institution": "Example High School",
+    "course_context": "AP CSA"
+  },
+  "reviewed_artifacts": {
+    "benchmark_version": "v1.3",
+    "report_file": "reports/v1_3_report.md",
+    "result_artifact": "results/v1_3_multi_results.json"
+  },
+  "ratings": {
+    "correctness_confidence": 4,
+    "pedagogy_usefulness": 4,
+    "safety_reliability": 5,
+    "classroom_readiness": 4
+  },
+  "open_feedback": {
+    "most_useful": "Clear reliability dimensions and reproducible report format.",
+    "biggest_concern": "Need more real classroom debugging examples.",
+    "one_change": "Add more novice misconception scenarios."
+  },
+  "decision_influence": {
+    "changed_decision": true,
+    "description": "Used benchmark results to pick one assistant for class demos."
+  }
+}
