@@ -2,6 +2,8 @@
 
 EduSafeBench is a public, reproducible reliability benchmark for K-12 CS learning assistants, with a focus on AP CSA and AP CSP workflows.
 
+Website (GitHub Pages): `https://kaushikatla-cell.github.io/EduSafeBench/`
+
 ## What this project ships
 
 - A structured benchmark dataset with rubric-guided grading fields.
