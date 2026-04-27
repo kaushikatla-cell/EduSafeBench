@@ -39,6 +39,7 @@ def _evaluate(dataset_path: str, predictions_path: str) -> Dict:
             gold_answer=row["gold_answer"],
             rubric=row["rubric"],
             risk_tags=row["risk_tags"],
+            citations=row.get("citations", []),
         )
         item.validate()
         if item.item_id not in pred_by_id:
@@ -54,6 +55,7 @@ def _evaluate(dataset_path: str, predictions_path: str) -> Dict:
                 "topic_bucket": item.topic_bucket,
                 "score": score,
                 "risk_tags": item.risk_tags,
+                "citations": item.citations,
             }
         )
 

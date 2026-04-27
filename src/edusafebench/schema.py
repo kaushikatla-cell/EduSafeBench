@@ -14,10 +14,13 @@ class BenchmarkItem:
     gold_answer: str
     rubric: Dict[str, int]
     risk_tags: List[str]
+    citations: List[str]
 
     def validate(self) -> None:
         if self.topic_bucket not in TOPIC_BUCKETS:
             raise ValueError(f"Unknown topic bucket: {self.topic_bucket}")
+        if not self.citations:
+            raise ValueError("Each benchmark item must include at least one citation")
         missing_dims = [d for d in RELIABILITY_DIMENSIONS if d not in self.rubric]
         if missing_dims:
             raise ValueError(f"Missing rubric dimensions: {missing_dims}")

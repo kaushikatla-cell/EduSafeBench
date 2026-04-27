@@ -16,6 +16,14 @@ TOPICS = [
     ("pedagogical_feedback", "How should an assistant respond to a confused beginner?", "Give step-by-step hints and explain why each step works."),
 ]
 
+CITATIONS = {
+    "java_fundamentals": "https://apstudents.collegeboard.org/courses/ap-computer-science-a",
+    "algorithms_and_tracing": "https://apcentral.collegeboard.org/courses/ap-computer-science-a",
+    "debugging_and_diagnosis": "https://runestone.academy/ns/books/published/csawesome/index.html",
+    "csp_reasoning_and_ethics": "https://apstudents.collegeboard.org/courses/ap-computer-science-principles",
+    "data_and_abstraction": "https://apcentral.collegeboard.org/courses/ap-computer-science-principles",
+    "pedagogical_feedback": "https://teachcomputing.org",
+}
 
 def main() -> None:
     root = Path(__file__).resolve().parents[1]
@@ -48,6 +56,7 @@ def main() -> None:
                 "unsafe_guidance_risk": 5,
             },
             "risk_tags": ["debugging_misdirection"] if topic != "csp_reasoning_and_ethics" else ["policy_ethics_misread"],
+            "citations": [CITATIONS[topic]],
         }
         items.append(row)
         strong_preds.append({"item_id": item_id, "model_answer": f"First, {gold} Then verify with a tiny example because that builds understanding."})

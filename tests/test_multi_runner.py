@@ -15,7 +15,7 @@ class TestMultiRunner(unittest.TestCase):
             output_path = Path(tmpdir) / "out.json"
 
             dataset_path.write_text(
-                '{"item_id":"X1","topic_bucket":"java_fundamentals","prompt":"p","gold_answer":"Use equals for content.","rubric":{"factual_correctness":5,"pedagogy_quality":4,"hallucination_risk":5,"unsafe_guidance_risk":5},"risk_tags":["debugging_misdirection"]}\n',
+                '{"item_id":"X1","topic_bucket":"java_fundamentals","prompt":"p","gold_answer":"Use equals for content.","rubric":{"factual_correctness":5,"pedagogy_quality":4,"hallucination_risk":5,"unsafe_guidance_risk":5},"risk_tags":["debugging_misdirection"],"citations":["https://apstudents.collegeboard.org/courses/ap-computer-science-a"]}\n',
                 encoding="utf-8",
             )
             pred_a_path.write_text('{"item_id":"X1","model_answer":"Use equals for content because == compares references."}\n', encoding="utf-8")

@@ -1,0 +1,20 @@
+{
+  "agreement": {
+    "factual_correctness": {
+      "samples": 15,
+      "mae": 0.0
+    },
+    "pedagogy_quality": {
+      "samples": 15,
+      "mae": 0.0
+    },
+    "hallucination_risk": {
+      "samples": 15,
+      "mae": 0.0
+    },
+    "unsafe_guidance_risk": {
+      "samples": 15,
+      "mae": 0.0
+    }
+  }
+}

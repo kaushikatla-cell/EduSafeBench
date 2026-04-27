@@ -38,6 +38,15 @@ python -m edusafebench.cli run-multi \
   --dataset data/benchmarks/apcsa_csp_week1_150.jsonl \
   --predictions-dir data/predictions/week1 \
   --output results/v1_1_multi_results.json
+python scripts/sample_for_adjudication.py \
+  --dataset data/benchmarks/apcsa_csp_week1_150.jsonl \
+  --sample-rate 0.1 \
+  --seed 42 \
+  --output results/v1_2_adjudication_sample.json
+python scripts/compute_adjudication_agreement.py \
+  --adjudication results/v1_2_adjudication_sample_filled_example.json \
+  --run-results results/v1_2_model_alpha_results.json \
+  --output results/v1_2_adjudication_agreement.json
 ```
 
 ## Benchmark scope
@@ -82,3 +91,13 @@ python scripts/track_drift.py results/v1_results_generated.json results/v1_resul
 - Multi-model result artifact: `results/v1_1_multi_results.json`
 - Week-one report: `reports/v1_1_report.md`
 - Outreach plan: `docs/outreach.md`
+
+## V1.2 adjudication and citation workflow
+
+- Benchmark items now include required `citations`.
+- Generate reviewer packet with 10% random sample:
+  - `scripts/sample_for_adjudication.py`
+- Compute agreement between human scores and model scores:
+  - `scripts/compute_adjudication_agreement.py`
+- Initial report template:
+  - `reports/v1_2_report.md`

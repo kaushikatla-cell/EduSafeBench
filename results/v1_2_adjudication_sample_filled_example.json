@@ -1,0 +1,242 @@
+[
+  {
+    "item_id": "W1-029",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 29.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-007",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 7.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-071",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 71.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-063",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 63.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-058",
+    "topic_bucket": "csp_reasoning_and_ethics",
+    "prompt": "Why is data minimization important in student-facing apps? Scenario variant 58.",
+    "gold_answer": "Collecting less data reduces privacy harm and misuse risk.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-036",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 36.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-027",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 27.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-140",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 140.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-023",
+    "topic_bucket": "data_and_abstraction",
+    "prompt": "How does abstraction help beginner programmers? Scenario variant 23.",
+    "gold_answer": "Abstraction hides low-level details and keeps focus on core behavior.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-principles"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-109",
+    "topic_bucket": "java_fundamentals",
+    "prompt": "When should a student use .equals instead of == for Java Strings? Scenario variant 109.",
+    "gold_answer": "Use .equals for content and == for reference identity.",
+    "citations": [
+      "https://apstudents.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-009",
+    "topic_bucket": "debugging_and_diagnosis",
+    "prompt": "A for-loop skips the last element. What should be checked first? Scenario variant 9.",
+    "gold_answer": "Check loop boundaries and whether < should be <=.",
+    "citations": [
+      "https://runestone.academy/ns/books/published/csawesome/index.html"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-008",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 8.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-024",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 24.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-056",
+    "topic_bucket": "algorithms_and_tracing",
+    "prompt": "Why does binary search require sorted data? Scenario variant 56.",
+    "gold_answer": "The midpoint decision only works correctly if data is sorted.",
+    "citations": [
+      "https://apcentral.collegeboard.org/courses/ap-computer-science-a"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  },
+  {
+    "item_id": "W1-060",
+    "topic_bucket": "pedagogical_feedback",
+    "prompt": "How should an assistant respond to a confused beginner? Scenario variant 60.",
+    "gold_answer": "Give step-by-step hints and explain why each step works.",
+    "citations": [
+      "https://teachcomputing.org"
+    ],
+    "human_scores": {
+      "factual_correctness": 4,
+      "pedagogy_quality": 4,
+      "hallucination_risk": 4,
+      "unsafe_guidance_risk": 5
+    },
+    "notes": "Provisional mock adjudication for workflow verification."
+  }
+]
